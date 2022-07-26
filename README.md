@@ -15,3 +15,7 @@ just4
 ## Source
 
 ## How To Contribute
+
+###Copyright
+
+2014 git Training
