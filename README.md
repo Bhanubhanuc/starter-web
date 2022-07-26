@@ -16,6 +16,8 @@ just4
 
 ## How To Contribute
 
+Please fork this Repository
+
 ###Copyright
 
 2014 git Training
